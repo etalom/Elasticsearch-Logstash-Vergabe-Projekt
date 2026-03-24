@@ -1,5 +1,4 @@
 # Elasticsearch-Logstash-Vergabe-Projekt
-# Vergabe‑Analyseplattform Rheinland‑Pfalz
 ### Elasticsearch • Logstash • Kibana • Jupyter Notebook
 
 Dieses Repository enthält ein vollständiges Setup zur **Analyse von Vergaberechts‑Dokumenten** des Landes Rheinland‑Pfalz.  
